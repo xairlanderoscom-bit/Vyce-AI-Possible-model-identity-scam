@@ -6,7 +6,7 @@ The screenshots below show the displayed model labels and the models' own answer
 
 ## Evidence 1 — `deepseek-v4.1`
 
-![Vyce deepseek-v4.1 identity inconsistency](evidence/vyce-deepseek-v4.1.png)
+![Vyce deepseek-v4.1 identity inconsistency](evidence/vyce-deepseek-v4.1.jpg)
 
 The UI labels the conversation as `deepseek-v4.1`. The assistant first says:
 
@@ -20,7 +20,7 @@ That is a direct identity inconsistency while the UI continues to show `deepseek
 
 ## Evidence 2 — `deepseek-v4-flash`
 
-![Vyce deepseek-v4-flash identity inconsistency](evidence/vyce-deepseek-v4-flash.png)
+![Vyce deepseek-v4-flash identity inconsistency](evidence/vyce-deepseek-v4-flash.jpg)
 
 The UI labels the selected model as **V4 Flash** / `deepseek-v4-flash`. The assistant initially claims:
 
